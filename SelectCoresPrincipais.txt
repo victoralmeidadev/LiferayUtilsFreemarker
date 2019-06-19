@@ -1,0 +1,76 @@
+<dynamic-element dataType="string" indexType="keyword" localizable="true" multiple="false" name="cor_destaque" readOnly="false" repeatable="false" required="false" showLabel="true" type="select" width="">
+				<dynamic-element name="option12843" type="option" value="roxo-clube">
+					<meta-data locale="pt_BR">
+						<entry name="label">
+							<![CDATA[Roxo Clube]]>
+						</entry>
+					</meta-data>
+				</dynamic-element>
+				<dynamic-element name="option12844" type="option" value="laranja-smiles">
+					<meta-data locale="pt_BR">
+						<entry name="label">
+							<![CDATA[Laranja Smiles]]>
+						</entry>
+					</meta-data>
+				</dynamic-element>
+				<dynamic-element name="option12845" type="option" value="vinho-transacoes">
+					<meta-data locale="pt_BR">
+						<entry name="label">
+							<![CDATA[Vinho Transacões]]>
+						</entry>
+					</meta-data>
+				</dynamic-element>
+				<dynamic-element name="option12846" type="option" value="verde-localiza">
+					<meta-data locale="pt_BR">
+						<entry name="label">
+							<![CDATA[Verde Localiza]]>
+						</entry>
+					</meta-data>
+				</dynamic-element>
+				<dynamic-element name="option12847" type="option" value="amarelo-hertz">
+					<meta-data locale="pt_BR">
+						<entry name="label">
+							<![CDATA[Amarelo Hertz]]>
+						</entry>
+					</meta-data>
+				</dynamic-element>
+				<dynamic-element name="option12848" type="option" value="amarelo-shopping">
+					<meta-data locale="pt_BR">
+						<entry name="label">
+							<![CDATA[Amarelo Shopping]]>
+						</entry>
+					</meta-data>
+				</dynamic-element>
+				<dynamic-element name="option12849" type="option" value="preto-uber">
+					<meta-data locale="pt_BR">
+						<entry name="label">
+							<![CDATA[Preto Uber]]>
+						</entry>
+					</meta-data>
+				</dynamic-element>
+				<dynamic-element name="option12850" type="option" value="magenta">
+					<meta-data locale="pt_BR">
+						<entry name="label">
+							<![CDATA[Magenta]]>
+						</entry>
+					</meta-data>
+				</dynamic-element>
+				<dynamic-element name="option9306" type="option" value="azul-cartoes">
+					<meta-data locale="pt_BR">
+						<entry name="label">
+							<![CDATA[Azul Cartões]]>
+						</entry>
+					</meta-data>
+				</dynamic-element>
+				<meta-data locale="pt_BR">
+					<entry name="label">
+						<![CDATA[Cor destaque]]>
+					</entry>
+					<entry name="predefinedValue">
+						<![CDATA[[""]]]>
+					</entry>
+					<entry name="tip">
+						<![CDATA[]]>
+					</entry>
+				</meta-data>
+			</dynamic-element>
