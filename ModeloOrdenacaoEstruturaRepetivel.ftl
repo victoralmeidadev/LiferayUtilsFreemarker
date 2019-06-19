@@ -7,4 +7,4 @@
 
 <#list array?sort_by(["nameOfTheFieldWanttoSort" , "data"]) as element>
 
-<#list>
+</#list>
