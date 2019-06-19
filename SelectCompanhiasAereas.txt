@@ -1,0 +1,174 @@
+<dynamic-element dataType="string" indexType="keyword" localizable="true" multiple="false" name="icone_companhia_aerea" readOnly="false" repeatable="false" required="false" showLabel="true" type="select" width="">
+					<dynamic-element name="option14842" type="option" value="https:&#047;&#047;smiles-mkt.s3.amazonaws.com&#047;logo_companhias_aereas&#047;aerolineas_logo.png">
+						<meta-data locale="pt_BR">
+							<entry name="label">
+								<![CDATA[Aerolineas]]>
+							</entry>
+						</meta-data>
+					</dynamic-element>
+					<dynamic-element name="option15098" type="option" value="https:&#047;&#047;smiles-mkt.s3.amazonaws.com&#047;logo_companhias_aereas&#047;aerolineas_logo_branco.png">
+						<meta-data locale="pt_BR">
+							<entry name="label">
+								<![CDATA[Aerolineas Branco]]>
+							</entry>
+						</meta-data>
+					</dynamic-element>
+					<dynamic-element name="option14843" type="option" value="https:&#047;&#047;smiles-mkt.s3.amazonaws.com&#047;logo_companhias_aereas&#047;aeromexico_logo.png">
+						<meta-data locale="pt_BR">
+							<entry name="label">
+								<![CDATA[Aeromexico]]>
+							</entry>
+						</meta-data>
+					</dynamic-element>
+					<dynamic-element name="option14844" type="option" value="https:&#047;&#047;smiles-mkt.s3.amazonaws.com&#047;logo_companhias_aereas&#047;aircanada_logo.png">
+						<meta-data locale="pt_BR">
+							<entry name="label">
+								<![CDATA[Air Canada]]>
+							</entry>
+						</meta-data>
+					</dynamic-element>
+					<dynamic-element name="option14845" type="option" value="https:&#047;&#047;smiles-mkt.s3.amazonaws.com&#047;logo_companhias_aereas&#047;airfrance_logo.png">
+						<meta-data locale="pt_BR">
+							<entry name="label">
+								<![CDATA[Air France]]>
+							</entry>
+						</meta-data>
+					</dynamic-element>
+					<dynamic-element name="option13481" type="option" value="https:&#047;&#047;smiles-mkt.s3.amazonaws.com&#047;logo_companhias_aereas&#047;airfrance_logo_negativo.png">
+						<meta-data locale="pt_BR">
+							<entry name="label">
+								<![CDATA[Air France Negativo]]>
+							</entry>
+						</meta-data>
+					</dynamic-element>
+					<dynamic-element name="option10882" type="option" value="https:&#047;&#047;smiles-mkt.s3.amazonaws.com&#047;logo-alitalia-branco.png">
+						<meta-data locale="pt_BR">
+							<entry name="label">
+								<![CDATA[Alitalia Branco]]>
+							</entry>
+						</meta-data>
+					</dynamic-element>
+					<dynamic-element name="option14846" type="option" value="https:&#047;&#047;smiles-mkt.s3.amazonaws.com&#047;logo_companhias_aereas&#047;alitalia_logo.png">
+						<meta-data locale="pt_BR">
+							<entry name="label">
+								<![CDATA[Alitalia Colorido]]>
+							</entry>
+						</meta-data>
+					</dynamic-element>
+					<dynamic-element name="option14847" type="option" value="https:&#047;&#047;smiles-mkt.s3.amazonaws.com&#047;logo_companhias_aereas&#047;copa_logo.png">
+						<meta-data locale="pt_BR">
+							<entry name="label">
+								<![CDATA[Copa]]>
+							</entry>
+						</meta-data>
+					</dynamic-element>
+					<dynamic-element name="option13489" type="option" value="https:&#047;&#047;smiles-mkt.s3.amazonaws.com&#047;logo_companhias_aereas&#047;copa_negativo_logo.png">
+						<meta-data locale="pt_BR">
+							<entry name="label">
+								<![CDATA[Copa Negativo (Branco)]]>
+							</entry>
+						</meta-data>
+					</dynamic-element>
+					<dynamic-element name="option14848" type="option" value="https:&#047;&#047;smiles-mkt.s3.amazonaws.com&#047;logo_companhias_aereas&#047;delta_logo.png">
+						<meta-data locale="pt_BR">
+							<entry name="label">
+								<![CDATA[Delta]]>
+							</entry>
+						</meta-data>
+					</dynamic-element>
+					<dynamic-element name="option14849" type="option" value="https:&#047;&#047;smiles-mkt.s3.amazonaws.com&#047;logo_companhias_aereas&#047;emirates_logo.png">
+						<meta-data locale="pt_BR">
+							<entry name="label">
+								<![CDATA[Emirates]]>
+							</entry>
+						</meta-data>
+					</dynamic-element>
+					<dynamic-element name="option14850" type="option" value="https:&#047;&#047;smiles-mkt.s3.amazonaws.com&#047;logo_companhias_aereas&#047;ethiopian_logo.png">
+						<meta-data locale="pt_BR">
+							<entry name="label">
+								<![CDATA[Ethiopian]]>
+							</entry>
+						</meta-data>
+					</dynamic-element>
+					<dynamic-element name="option14851" type="option" value="https:&#047;&#047;smiles-mkt.s3.amazonaws.com&#047;logo_companhias_aereas&#047;etihad_logo.png">
+						<meta-data locale="pt_BR">
+							<entry name="label">
+								<![CDATA[Etihad]]>
+							</entry>
+						</meta-data>
+					</dynamic-element>
+					<dynamic-element name="option11515" type="option" value="https:&#047;&#047;smiles-mkt.s3.amazonaws.com&#047;logo_parceiro_gol_laranja.png">
+						<meta-data locale="pt_BR">
+							<entry name="label">
+								<![CDATA[Gol Laranja]]>
+							</entry>
+						</meta-data>
+					</dynamic-element>
+					<dynamic-element name="option11516" type="option" value="https:&#047;&#047;smiles-mkt.s3.amazonaws.com&#047;logo_parceiro_gol_branco.png">
+						<meta-data locale="pt_BR">
+							<entry name="label">
+								<![CDATA[Gol Branco]]>
+							</entry>
+						</meta-data>
+					</dynamic-element>
+					<dynamic-element name="option14852" type="option" value="https:&#047;&#047;smiles-mkt.s3.amazonaws.com&#047;logo_companhias_aereas&#047;klm_logo.png">
+						<meta-data locale="pt_BR">
+							<entry name="label">
+								<![CDATA[KLM]]>
+							</entry>
+						</meta-data>
+					</dynamic-element>
+					<dynamic-element name="option14853" type="option" value="https:&#047;&#047;smiles-mkt.s3.amazonaws.com&#047;logo_companhias_aereas&#047;korean_logo.png">
+						<meta-data locale="pt_BR">
+							<entry name="label">
+								<![CDATA[Korean]]>
+							</entry>
+						</meta-data>
+					</dynamic-element>
+					<dynamic-element name="option14854" type="option" value="https:&#047;&#047;smiles-mkt.s3.amazonaws.com&#047;logo_companhias_aereas&#047;passaredo_logo.png">
+						<meta-data locale="pt_BR">
+							<entry name="label">
+								<![CDATA[Passaredo]]>
+							</entry>
+						</meta-data>
+					</dynamic-element>
+					<dynamic-element name="option14855" type="option" value="https:&#047;&#047;smiles-mkt.s3.amazonaws.com&#047;logo_companhias_aereas&#047;qatar_logo.png">
+						<meta-data locale="pt_BR">
+							<entry name="label">
+								<![CDATA[Qatar]]>
+							</entry>
+						</meta-data>
+					</dynamic-element>
+					<dynamic-element name="option14856" type="option" value="https:&#047;&#047;smiles-mkt.s3.amazonaws.com&#047;logo_companhias_aereas&#047;royal_logo.png">
+						<meta-data locale="pt_BR">
+							<entry name="label">
+								<![CDATA[RoyalAirMaroc]]>
+							</entry>
+						</meta-data>
+					</dynamic-element>
+					<dynamic-element name="option14857" type="option" value="https:&#047;&#047;smiles-mkt.s3.amazonaws.com&#047;logo_companhias_aereas&#047;southafrican_logo.png">
+						<meta-data locale="pt_BR">
+							<entry name="label">
+								<![CDATA[South Africa]]>
+							</entry>
+						</meta-data>
+					</dynamic-element>
+					<dynamic-element name="option14858" type="option" value="https:&#047;&#047;smiles-mkt.s3.amazonaws.com&#047;logo_companhias_aereas&#047;tap_logo.png">
+						<meta-data locale="pt_BR">
+							<entry name="label">
+								<![CDATA[Tap]]>
+							</entry>
+						</meta-data>
+					</dynamic-element>
+					<meta-data locale="pt_BR">
+						<entry name="label">
+							<![CDATA[Ícone companhia aérea]]>
+						</entry>
+						<entry name="predefinedValue">
+							<![CDATA[[""]]]>
+						</entry>
+						<entry name="tip">
+							<![CDATA[]]>
+						</entry>
+					</meta-data>
+				</dynamic-element>
