@@ -8,9 +8,15 @@
 <#if master_separator.getSiblings()?has_content>
                 <#list master_separator.getSiblings() as cur_item>
 
+<#-- declarando variaveis da estrutura repetivel -->
+                <#assign 
+                tituloBox = cur_item.getChild('titulo_box').getData()
+                textoBox = cur_item.getChild('texto_box).getData()                
+                >
+
 <#-- inicio html -->
-                <h1 class="${cur_item.getChild('Filho_Que_Define_Classe').getData()}">${cur_item.getChild('Filho_Do_Separador').getData()}</h1>
-                <h3 class="${cur_item.getChild('Filho_Que_Define_Classe').getData()}">${cur_item.getChild('Filho_Do_Separador').getChild('Filho_Do_Separador_Dentro_Do_Separador').getData()}</h3>
+                <h1>${tituloBox}</h1>
+                <h3>${textoBox}</h3>
 <#-- fim html -->
                 </#list>
 
